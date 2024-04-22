@@ -1,7 +1,7 @@
 const sumRecursion = (n) => {
-    if ( n<=100 ) {
+    if (n <= 100) {
         console.log(n);
-        sumRecursion(n+1)
+        sumRecursion(n + 1);
     }
 }
 
